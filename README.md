@@ -6,7 +6,7 @@ Permite registrar ingresos, gastos y visualizar la información para llevar un m
 
 Este proyecto fue desarrollado como parte de la asignatura Nuevas Tecnologías.
 
-------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------
 
 # Configuración del Proyecto
 
@@ -23,7 +23,7 @@ cd GastApp-proyecto-NuevasTecnologias
 # Abrir el proyecto
 
 Abrir el archivo index.html en el navegador.
-------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------
 #	Reglas de Colaboración:
 
 1.	Prohibido hacer commits directos a main o develop.
@@ -31,7 +31,7 @@ Abrir el archivo index.html en el navegador.
 3.	Toda fusión debe pasar por un Pull Request y ser aprobada por al menos un compañero.
 4.	Mensajes de commit claros (ej: feat: agregar validación de formulario).
 
-------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------
 # Modelo de Trabajo (GitFlow)
 
 El proyecto utiliza un modelo de trabajo basado en GitFlow para organizar el desarrollo.
@@ -42,7 +42,7 @@ Rama	           Descripción
 main	           Contiene el código final estable del proyecto
 develop	         Rama donde se integran nuevas funcionalidades
 
-------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------
 # Flujo de trabajo
 1 Crear una rama
 
